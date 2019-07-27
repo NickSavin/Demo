@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/Shapes/bin/Debug
+/Shapes/obj
+/Shapes.Tests/bin/Debug
+/Shapes.Tests/obj/Debug
+/Shapes.Tests/obj/Release
